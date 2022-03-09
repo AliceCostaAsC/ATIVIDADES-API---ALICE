@@ -1,0 +1,31 @@
+ #titulo {
+     text-align: center;
+ }
+ 
+ #cidade {
+     margin-left: 300%;
+     margin-top: 10%;
+ }
+ 
+ 
+ #tudo {
+     text-align: center;
+     font-size: 20px;
+ }
+ 
+ #temp {
+     font-size: 50px;
+ }
+ 
+ #name {
+     font-size: 25px;
+ }
+ 
+ #description {
+     font-size: 25px;
+ }
+ 
+ #button-addon1 {
+     margin-top: -22%;
+     margin-left: 410%;
+ }
